@@ -16,7 +16,7 @@
 
   Ask me if you need user manual
   
-  (C) 2017 Evgeny Mazovetskiy
+  (C) 2017 Evgeny Mazovetskiy, Elena Mazovetskaya
 */
 
 //During waiting state we constantly measure average light and show it on display
